@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohumifx
 - 👀 I’m interested in ... languages frameworks
-- 🌱 I’m currently learning ... github
+- 🌱 I’m currently learning ... git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mohumichauke@gmail.com
 
